@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  #app {
+    padding: 1em;
+  }
+  
+  body {
+    background-color: #778;
+    color: white;
+  }
